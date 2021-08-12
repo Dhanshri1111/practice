@@ -1,0 +1,13 @@
+Q1. [Marks- 25]
+Consider we have Student class with rollno(int), name(String) and gender(char) as member variables
+Implement Stack Of Student using Linklist. 
+Write Menu driven program to perfrom below operations:
+A. Push Student (5 marks)
+B. Pop Student (5 marks)
+C. Print complete Stack using toString()  (5 marks)
+D. Print all Male Student  (5 marks)
+E. Print all FeMaleStudent  (5 marks)
+
+Q2.                                                                                                         [Marks -10 + 5 ]
+Write Java code to sort below array using Quick sort and search 25 using binary search operation.
+{5,16,7,3,1,11,29,18,20,25}
